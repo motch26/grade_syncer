@@ -1,0 +1,16 @@
+{
+  "name": "syncer",
+  "version": "1.0.0",
+  "description": "CHMSU Grading System Syncer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Almark Duma-op",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "mysql2": "^3.3.3",
+    "winston": "^3.9.0"
+  }
+}
